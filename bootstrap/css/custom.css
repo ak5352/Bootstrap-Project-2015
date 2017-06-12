@@ -1,0 +1,15 @@
+body { 
+		padding-bottom: 70px; 
+		background-color: #0F0F0F;
+	 }
+
+.starter-template {
+  					padding: 40px 15px;
+  					text-align: center;
+				}
+
+p, h1, h2, h3 {
+				font-weight: bold;
+				font-family: "Courier New", monospace;
+	      	  }
+
